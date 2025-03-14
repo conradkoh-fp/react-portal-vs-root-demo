@@ -25,6 +25,7 @@
 	},
 	"javascript": {
 		"formatter": {
+			"lineWidth": 80,
 			"quoteStyle": "double"
 		}
 	}
